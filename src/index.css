@@ -22,7 +22,7 @@ code {
   background-color: rgb(4, 46, 4);
   padding: 15px;
   margin: auto;
-  max-width: 700px;
+  width: 700px;
   margin-bottom: 20px;
   padding-top: 10px;
   border-radius: 15px;
@@ -118,6 +118,8 @@ code {
   max-height: 32px;
   max-width: 32px;
   color:#8393A0;
+  -webkit-filter: opacity(1) drop-shadow(0 0 0 #c3ccd3);
+  filter: opacity(0.5) drop-shadow(0 0 0 #c2cbd3);
 }
 
 /*new post*/
@@ -156,9 +158,15 @@ code {
   margin-left: 10px;
 }
 
+.new_post_input > select{
+  margin-left: 10px;
+}
+
 .new_post_input > textarea{
   margin-left: 10px;
   width: 350px;
+  height: 100px;
+  vertical-align: top; 
 
 }
 
