@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/cursor-redux/static/css/main.90b608ae.chunk.css",
-    "main.js": "/cursor-redux/static/js/main.210c157a.chunk.js",
-    "main.js.map": "/cursor-redux/static/js/main.210c157a.chunk.js.map",
+    "main.css": "/cursor-redux/static/css/main.87a35730.chunk.css",
+    "main.js": "/cursor-redux/static/js/main.b135e6d5.chunk.js",
+    "main.js.map": "/cursor-redux/static/js/main.b135e6d5.chunk.js.map",
     "runtime-main.js": "/cursor-redux/static/js/runtime-main.e51f8295.js",
     "runtime-main.js.map": "/cursor-redux/static/js/runtime-main.e51f8295.js.map",
     "static/js/2.7c85b32f.chunk.js": "/cursor-redux/static/js/2.7c85b32f.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.2c15ebb3.chunk.js": "/cursor-redux/static/js/3.2c15ebb3.chunk.js",
     "static/js/3.2c15ebb3.chunk.js.map": "/cursor-redux/static/js/3.2c15ebb3.chunk.js.map",
     "index.html": "/cursor-redux/index.html",
-    "static/css/main.90b608ae.chunk.css.map": "/cursor-redux/static/css/main.90b608ae.chunk.css.map",
+    "static/css/main.87a35730.chunk.css.map": "/cursor-redux/static/css/main.87a35730.chunk.css.map",
     "static/js/2.7c85b32f.chunk.js.LICENSE.txt": "/cursor-redux/static/js/2.7c85b32f.chunk.js.LICENSE.txt",
     "static/media/verified.23524915.svg": "/cursor-redux/static/media/verified.23524915.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e51f8295.js",
     "static/js/2.7c85b32f.chunk.js",
-    "static/css/main.90b608ae.chunk.css",
-    "static/js/main.210c157a.chunk.js"
+    "static/css/main.87a35730.chunk.css",
+    "static/js/main.b135e6d5.chunk.js"
   ]
 }
